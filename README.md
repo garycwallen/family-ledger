@@ -5,9 +5,10 @@
 - `npm run dev`: Runs development server
 
 ## Technologies
-- nextJS
-- Clerk
-- Lucide
+- [Clerk](https://clerk.com/): Clerk is a complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.
+- [Lucide](https://lucide.dev/): Lucide is an open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects.
+- [Next.js](https://nextjs.org/): Next.js is a React framework for building full-stack web applications.
+- [shadcn/ui](https://ui.shadcn.com/): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
 ## Deploy on Vercel
 
